@@ -5,6 +5,7 @@ lib/
 *.class
 *.dll
 *.exe
+*.sh
 *.o
 *.so
 *.7z
